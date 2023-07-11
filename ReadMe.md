@@ -1,8 +1,8 @@
 # Contract Review and Analysis
-In this project, we have employed artificial intelligence to enhance and simplify the contract review process. By utilizing advanced algorithms, our system identifies key phrases, clauses, rights, and obligations within contracts, benefiting individuals and companies who are signing them. This automated analysis assists lawyers in identifying potential issues and improves the overall efficiency of the review process.
+In this project, artificial intelligence was used to enhance and simplify the contract review process. By utilizing advanced algorithms, the system identifies key phrases, clauses, rights, and obligations within contracts. This automated analysis assists lawyers in identifying potential issues and improves the overall efficiency of the review process.
 
 ## Introduction 
-This model has been trained to automatically extract and identify crucial clauses from contracts, significantly reducing the need for manual labor and associated costs. To accomplish this, the CUAD Dataset (Contract Understanding Atticus Dataset) was utilized, which consists of over 500 contracts meticulously annotated by legal experts. Through this dataset, 41 different types of significant clauses were identified.
+The model has been trained to automatically extract and identify crucial clauses from contracts, significantly reducing the need for manual labor and associated costs. To accomplish this, the CUAD Dataset (Contract Understanding Atticus Dataset) was utilized, which consists of over 500 contracts meticulously annotated by legal experts. Through this dataset, 41 different types of significant clauses were identified.
 
 To make accurate predictions, the pretrained model provided by the Atticus Project was utilized. This model has been integrated a user-friendly frontend system using Flask, allowing users to interact with the model seamlessly.
 
